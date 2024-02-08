@@ -1,0 +1,10 @@
+### Description - 
+
+Part 1:
+"Hmm... I'm having a hard time solving this one... maybe I'm not well equipped yet. Et tu, challenger? As you navigate through the challenge, remember that even Nyan Cat had to equip itself with its rainbow trail to embark on its epic journey."
+
+Part 2:
+"Playing a CTF, aren't we?... Maybe you did learn the method to solve this challenge somewhere... If you think hard enough, the rails of your mind will open the way for you, just like Nyan Cat's rainbow path through the endless space of the internet."
+
+Find the flags from both parts and submit in the following format:
+tyroCTF{part1_part2}

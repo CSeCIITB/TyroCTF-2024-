@@ -1,0 +1,1 @@
+Nyan Cat was writing a python script to find their brother who is missing since a couple of million years, but they accidentally compiled the python file instead of running it. Can you recover the original python script?

@@ -1,0 +1,3 @@
+The challenge you face is as mysterious as the elusive Nyan Cat, which has found its way into our digital realm. This enigmatic image seems to hide a deeper message... something feels off... my image viewer is not able to open this one... 
+
+Flag format: tyroCTF{...}

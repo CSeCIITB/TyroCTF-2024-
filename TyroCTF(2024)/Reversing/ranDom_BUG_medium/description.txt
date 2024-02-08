@@ -1,0 +1,1 @@
+Nyancat wrote a code that will spit out a secret if you can correctly guess a random number. But you cannot do it coz it's random :-)

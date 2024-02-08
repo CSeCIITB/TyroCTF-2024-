@@ -1,0 +1,11 @@
+For, after all, how do we know that two and two make four? Or that the force of gravity works? Or that the past is unchangeable? If both the past and the external world exist only in the mind, and if the mind itself is controllable – what then? 
+Part 1: c4354r_54y5_h1
+
+(caesar cipher a->h)
+
+
+In the world of cryptography, secrets often hide in plain sight, waiting to be uncovered. Just like a rail fence, where parallel bars crisscross to form a hidden pattern, your keen eye and logical mind are your tools for unraveling the concealed messages. Embrace the challenge, and let the journey along the rails of encryption lead you to the truth. 
+Part 2: qu1t3_4_j0urn3y
+
+
+(railfence cipher, 3 rails, offset 1)

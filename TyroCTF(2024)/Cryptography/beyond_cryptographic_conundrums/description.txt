@@ -1,0 +1,10 @@
+Part 1:
+Hmm... I'm having a hard time solving this one... maybe I'm not well equipquiped yet. Et tu, challenger?
+
+
+Part 2:
+Playing a CTF, aren't we?... Maybe you did learn the method to solve this challenge somewhere... If you think hard enough the rails of your mind will open the way for you!
+
+
+Find the flags from both parts and submit in the following format:
+tyroCTF{part1_part2}

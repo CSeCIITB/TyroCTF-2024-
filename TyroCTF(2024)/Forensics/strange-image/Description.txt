@@ -1,0 +1,5 @@
+Strange image indeed! seems like my image viewer isn't able to open this one...  What could be wrong? Is there something wrong with this image...
+...or maybe it isn't at all.
+
+
+Flag format: tyroCTF{...}
